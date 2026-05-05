@@ -1,0 +1,6 @@
+node_modules
+dist
+.edge-profile*
+edge-*.png
+.DS_Store
+*.local
